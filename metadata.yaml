@@ -1,16 +1,21 @@
 _repo: Blacks-and-Bushrangers-Adventures-in-Queensland_59714
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   illustrator:
     agent_name: Berkeley, Stanley
     gutenberg_agent_id: '50584'
     url: http://www.gutenberg.org/2009/agents/50584
+covers:
+- cover_type: archival
+  image_path: 59714-h/images/cover.jpg
 creator:
   author:
     agent_name: Kennedy, E. B.
     gutenberg_agent_id: '50583'
     url: http://www.gutenberg.org/2009/agents/50583
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/59714#Blacks-and-Bushrangers-Adventures-in-Queensland
 gutenberg_issued: '2019-06-09'
 gutenberg_type: Text
 identifiers:
